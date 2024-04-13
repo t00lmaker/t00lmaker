@@ -13,8 +13,7 @@ This is my personal profile, as my company profile is set to private.
 <br>
 
 [![t00lmaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=t00lmaker&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t00lmaker&langs_count=4&hide=javascript,html,css&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t00lmaker&langs_count=4&hide=javascript,html,css&layout=compact)
 
 #### ❤️ I work with 
 
@@ -35,3 +34,12 @@ This is my personal profile, as my company profile is set to private.
   <img align="center" alt="Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
   <img align="center" alt="Crystal" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/crystal/crystal-original.svg">
 </div>
+<br>
+<details>
+<summary>If you'd like to learn more</summary>
+  
+  <blockquote>
+  I'm Brazilian, passionate about traveling and understanding how things work. I've been programming since 2008, with a keen interest in clean code, software architecture, and automating the entire development cycle to ensure the delivery of high-quality software. Currently, I'm working with engineers and data scientists to evolve a data platform for Brazil's largest bank, leveraging my expertise in AWS, Kubernetes, and software development. Lastly, I'm always open to new challenges.
+  </blockquote
+
+</details>
