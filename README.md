@@ -12,8 +12,12 @@ This is my personal profile, as my company profile is set to private.
 </div>
 <br>
 
-[![t00lmaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=t00lmaker&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t00lmaker&langs_count=4&hide=javascript,html,css&layout=compact)
+<a href="https://github.com/t00lmaker/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=t00lmaker" />
+</a>
+<a href="https://github.com/t00lmaker/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t00lmaker&langs_count=4&hide=javascript,html,css&layout=compact&card_width=320" />
+</a>
 
 #### ❤️ I work with 
 
