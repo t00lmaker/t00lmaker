@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋,
+
+This is my personal profile, as my company profile is set to private.
 
 <div> 
   <a href="https://www.youtube.com/channel/UCaiDJ_G4KWaEX3WQ4OgKeoA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -11,6 +13,8 @@
 <br>
 
 [![t00lmaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=t00lmaker&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t00lmaker&langs_count=4&hide=javascript,html,css&layout=compact)
 
 #### ❤️ I work with 
 
